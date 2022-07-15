@@ -1,10 +1,4 @@
-# BIP39 mnemonic (seed phrase) generator
-# Author: Brian (deathlyface)
-
 import os, sys, hashlib, urllib.request
-
-
-
 
 entropy = os.urandom(16)    
 
