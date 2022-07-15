@@ -8,5 +8,9 @@ This will include having to learn about the way the phrases are generated, how c
 
 ##### So far :
 Generate the phrase correctly ✔️
-Find a way to check the phrases ❌\
+
+
+Find a way to check the phrases ❌
+
+
 Check balance (and other functions) ❌\
