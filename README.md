@@ -13,4 +13,4 @@ Generate the phrase correctly ✔️
 Find a way to check the phrases ❌
 
 
-Check balance (and other functions) ❌\
+Check balance (and other functions) ❌
